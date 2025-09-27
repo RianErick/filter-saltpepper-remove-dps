@@ -1,6 +1,6 @@
-# Processamento Digital de Imagens – PDS
+# Processamento Digital de Sinais – PDS
 
-Este repositório contém a resolução da **Atividade Avaliativa 1** da disciplina de **Processamento Digital de Imagens**, utilizando **Python + OpenCV + NumPy + Matplotlib**.
+Este repositório contém a resolução da **Atividade Avaliativa 1** da disciplina de **Processamento Digital de Sinais**, utilizando **Python + OpenCV + NumPy + Matplotlib**.
 
 ## Atividade
 A atividade foi dividida em duas questões principais:
